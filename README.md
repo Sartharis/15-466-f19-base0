@@ -1,15 +1,15 @@
-# (TODO: your game's title)
+# Self Breakers
 
-Author: (TODO: your name)
+Author: 
+Jan Orlowski
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: 
+Initally based on brick breaker. Two players control a stack of bricks which can be broken by a ball that flies inbetween. The first to break all of their bricks wins!
 
 Screen Shot:
-
 ![Screen Shot](screenshot.png)
 
 How To Play:
-
-(TODO: describe the controls and (if needed) goals/strategy.)
+Use the mouse to move your stack of bricks so that the bricks get hit by the ball.
 
 This game was built with [NEST](NEST.md).
